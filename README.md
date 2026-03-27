@@ -53,7 +53,8 @@ Or run dev with `cargo tauri dev`.
 
 ## Author
 
-Abraham Tugalov
+Original author: Abraham Tugalov  
+Enhancements and further development: Kirill Belov
 
 ## Python version?
 Old version of Jarvis was built with Python.<br>
